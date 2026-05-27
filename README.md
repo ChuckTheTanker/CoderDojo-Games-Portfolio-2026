@@ -1,4 +1,4 @@
-# 🎮 Unity CoderDojo 2025-2026 Games
+# 🎮 Unity CoderDojo Games
 
 This repository contains a collection of games developed as part of the **CoderDojo** project, exploring various genres from 2D classics to 3D platformers. These projects focus on C# scripting, physics, Inheritance and advanced Unity systems.
 
